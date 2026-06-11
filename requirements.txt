@@ -1,8 +1,9 @@
 fastapi
 uvicorn
-torch==2.2.2
-transformers
+torch
+transformers==4.41.2
 accelerate
 sentencepiece
 peft
 pydantic
+numpy<2
