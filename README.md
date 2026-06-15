@@ -225,6 +225,7 @@ Through this project, the following concepts were explored:
 ## Author
 
 **Sharvani Karnati**
-B.Tech in Computer Science and Engineering (Data Science)
+
+- B.Tech in Computer Science and Engineering (Data Science)
 ---
 
