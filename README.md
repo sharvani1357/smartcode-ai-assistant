@@ -225,8 +225,5 @@ Through this project, the following concepts were explored:
 ## Author
 
 **Sharvani Karnati**
-
-AI & Full Stack Development Enthusiast
-
 ---
 
